@@ -1,0 +1,94 @@
+h1{
+    font-size: 50px;
+    color: white;
+    font-family: sansationregular;
+}
+
+.banner{
+    width: 1017px;
+    height: 424px;
+}
+
+.choice{
+    margin-top: 2%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 150px;
+}
+
+.vector{
+    text-align: center;
+    width: 400px;
+    height: 455px;
+    margin: 40px;
+}
+
+.sct{
+    display: block;
+    justify-content: center;
+    width: auto;
+    height: auto;
+
+ }
+
+.centered{
+    text-align: center;
+}
+ 
+/* button 
+.bott{
+    width: 400px;
+    position: relative;
+    /* top: 85%; 
+    /* left: 50%; 
+    transform:translate(-50%,-50%);
+    padding: 33px 30px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: rgb(255, 251, 251);
+    letter-spacing: 2px;
+    font-size: 19px;
+}
+
+.bott:before{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #000000;
+    z-index: -1;
+    transition: transform 0.5s;
+    transform-origin: bottom right;
+    transform: scale(0);
+}
+
+.bott:hover:before{
+    transition: transform 0.5s;
+    transform-origin: top left;
+    transform: scale(1);
+}
+
+.bott:after{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background:transparent;
+    border: 1px solid #fff;
+    box-sizing: border-box;
+    
+    z-index: -1;
+    transition: transform 0.5s;
+    transform-origin: top left;
+    transform: scale(1);
+}
+
+.bott:hover:after{
+    transition: transform 0.5s;
+    transform-origin: bottom right;
+    transform: scale(0);
+} */
